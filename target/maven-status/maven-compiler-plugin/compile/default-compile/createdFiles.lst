@@ -1,0 +1,5 @@
+io/column/bookstore/User.class
+io/column/bookstore/UserRepository.class
+io/column/bookstore/UserController.class
+io/column/bookstore/UserService.class
+io/column/bookstore/BookstoreApplication.class
